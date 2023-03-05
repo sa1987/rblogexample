@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Agape</title>
+    <title>Agape Open Science Community Website</title>
     <link>https://sa1987.github.io/rblogexample/</link>
-    <description>Recent content on Agape</description>
+    <description>Recent content on Agape Open Science Community Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 24 Jan 2022 14:00:00 +0000</lastBuildDate><atom:link href="https://sa1987.github.io/rblogexample/index.xml" rel="self" type="application/rss+xml" />
@@ -47,6 +47,17 @@ in the documentation.&lt;/p&gt;</description>
       <guid>https://sa1987.github.io/rblogexample/about/</guid>
       <description>Our website builds with Hugo static site generator and Mainroad theme. This demo allows you to see what Mainroad based website looks like before deciding to go with it. Just keep in mind that the current demo shows the basics, a small part of what the combination of Hugo and Mainroad can do.
 About Mainroad Mainroad is a responsive, simple, clean and content-focused Hugo theme based on the MH Magazine lite WordPress theme.</description>
+    </item>
+    
+    <item>
+      <title>Hello R Markdown</title>
+      <link>https://sa1987.github.io/rblogexample/post/2020-12-01-r-rmarkdown/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      
+      <guid>https://sa1987.github.io/rblogexample/post/2020-12-01-r-rmarkdown/</guid>
+      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
     </item>
     
     <item>

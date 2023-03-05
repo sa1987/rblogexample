@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Agape</title>
+    <title>Categories on Agape Open Science Community Website</title>
     <link>https://sa1987.github.io/rblogexample/categories/</link>
-    <description>Recent content in Categories on Agape</description>
+    <description>Recent content in Categories on Agape Open Science Community Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Apr 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://sa1987.github.io/rblogexample/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="https://sa1987.github.io/rblogexample/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>R</title>
+      <link>https://sa1987.github.io/rblogexample/categories/r/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      
+      <guid>https://sa1987.github.io/rblogexample/categories/r/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Development</title>
       <link>https://sa1987.github.io/rblogexample/categories/development/</link>

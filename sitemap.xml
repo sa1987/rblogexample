@@ -26,13 +26,31 @@
     <loc>https://sa1987.github.io/rblogexample/tags/</loc>
     <lastmod>2022-01-24T14:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://sa1987.github.io/rblogexample/categories/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>https://sa1987.github.io/rblogexample/post/2020-12-01-r-rmarkdown/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>https://sa1987.github.io/rblogexample/tags/plot/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>https://sa1987.github.io/rblogexample/post/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>https://sa1987.github.io/rblogexample/categories/r/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>https://sa1987.github.io/rblogexample/tags/r-markdown/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>https://sa1987.github.io/rblogexample/tags/regression/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
     <loc>https://sa1987.github.io/rblogexample/tags/basic-elements/</loc>
     <lastmod>2018-04-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sa1987.github.io/rblogexample/post/basic-elements/</loc>
-    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sa1987.github.io/rblogexample/categories/</loc>
     <lastmod>2018-04-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sa1987.github.io/rblogexample/tags/css/</loc>
@@ -42,9 +60,6 @@
     <lastmod>2018-04-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sa1987.github.io/rblogexample/tags/html/</loc>
-    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sa1987.github.io/rblogexample/post/</loc>
     <lastmod>2018-04-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sa1987.github.io/rblogexample/post/hugo-template-primer/</loc>
